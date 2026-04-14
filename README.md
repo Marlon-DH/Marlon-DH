@@ -1,6 +1,6 @@
 ### Marlon-DH!
 
-<img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721114243621-3IRPD7LCV3WSYFFUJL9Q/12.gif" alt="GIF" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721114243621-3IRPD7LCV3WSYFFUJL9Q/12.gif" alt="GIF" min-width="540px" max-width="304px" width="400px" align="right">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Marlon-DH&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
