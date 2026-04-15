@@ -18,7 +18,7 @@ que é o meu objetivo principal no momento, me apaixonando cada vez mais que apr
 - 🤔 Explorando novas tecnologias e criando soluções
 - 🎓 Estudante no Senac Salto/SP
 - 💼 Técnico em Logística
-- 🌱 Aprendendo: **C#, MySQL, HTML**
+- 🌱 Aprendendo: **C#, MySQL, HTML & JavaScript**
 
 
 
