@@ -1,59 +1,57 @@
-### Marlon-DH!
+### 👋 Olá, eu sou o Marlon-DH!
 
-<img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721114243621-3IRPD7LCV3WSYFFUJL9Q/12.gif">
+<a href = https://github.com/Marlon-DH>
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Marlon-DH&color=f8efd4&style=for-the-badge&logo=GitHub" />
+</a>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Marlon-DH&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-## Sobre mim
+---
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando no Senac Salto/SP.
-- 💼 Técnico em Logística.
-- 🌱 Aprendendo mais sobre Programação em C#, MySQL, HTML.
+## 👨‍💻 Sobre mim
 
-## Minhas Skills
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BjZXZmYm9yOWNiZ3NmZzEweGtzYTlsZTBjbTVvemQ5czU2bHMxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Id71NFYfSBOKv2IexE/giphy.gif" width="370px" align="right">
 
-**Aplicações e dados**
+Tenho 18 anos, moro no estado de São Paulo, e tenho grande interesse em
+tecnologia, jogos e animes! Ainda estou estudando sobre a Programação,
+que é o meu objetivo principal no momento, me apaixonando cada vez mais que aprendo sobre!!!
 
+- 🤔 Explorando novas tecnologias e criando soluções
+- 🎓 Estudante no Senac Salto/SP
+- 💼 Técnico em Logística
+- 🌱 Aprendendo: **C#, MySQL, HTML**
+
+
+
+
+---
+
+## 🚀 Minhas Skills
+
+### 💻 Aplicações e dados
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**DevOps**
+---
 
+### ⚙️ DevOps
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+### 🛠 Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<br/>
+---
 
-<a href="https://github.com/Marlon-DH" title="Perfil do Marlon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlon-DHtheme=draculashow_icons=true" />
-</a>
+## 📫 Onde me encontrar
 
-## Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-MarlonHermann-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonhermann)
 
-[![Linkedin](https://img.shields.io/badge/-MarlonHermann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marlonhermann)](www.linkedin.com/in/marlonhermann)
-[![Gmail Badge](https://img.shields.io/badge/-hermannmarlon7@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hermannmarlon7@gmail.com)](mailto:hermannmarlon7@gmial.com)
+[![Gmail](https://img.shields.io/badge/-hermannmarlon7@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:hermannmarlon7@gmail.com)
+
 [![GitHub](https://img.shields.io/github/followers/Marlon-DH?label=follow&style=social)](https://github.com/Marlon-DH)
 
-
-<!--
-**Marlon-DH/Marlon-DH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
