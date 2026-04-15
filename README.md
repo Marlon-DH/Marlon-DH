@@ -1,6 +1,6 @@
 ### Marlon-DH!
 
-<img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721114243621-3IRPD7LCV3WSYFFUJL9Q/12.gif" alt="GIF" min-width="304px" max-width="540px" width="540px" align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM2ejg4ZmxkdnEzZTh5amlnYXl0em5zcGd4YndvZjh1ZDlodW9iaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" alt="GIF" min-width="400px" max-width="400px" width="400px" align="right">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Marlon-DH&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
@@ -38,7 +38,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Marlon_Hermann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marlonhermann)](www.linkedin.com/in/marlonhermann)
+[![Linkedin](https://img.shields.io/badge/-MarlonHermann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marlonhermann)](www.linkedin.com/in/marlonhermann)
 [![Gmail Badge](https://img.shields.io/badge/-hermannmarlon7@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hermannmarlon7@gmail.com)](mailto:hermannmarlon7@gmial.com)
 [![GitHub](https://img.shields.io/github/followers/Marlon-DH?label=follow&style=social)](https://github.com/Marlon-DH)
 
