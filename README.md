@@ -49,18 +49,6 @@ Tenho 18 anos, moro no estado de São Paulo e sou apaixonado por tecnologia, jog
 
 ---
 
-## 📚 Conhecimentos
-
-* Lógica de Programação (Portugol Studio)
-* Algoritmos e Estruturas de Dados
-* Programação Orientada a Objetos (POO)
-* Banco de Dados MySQL
-* Desenvolvimento Web (HTML, CSS e JavaScript)
-* Desenvolvimento Mobile com Android Studio
-* Versionamento de Código com Git e GitHub
-
----
-
 # 📂 Projetos em Destaque   
 
 ## 📱 Aplicativos Android
