@@ -66,7 +66,7 @@ Aplicações desenvolvidas utilizando Android Studio e Kotlin, explorando concei
 
 <img width="400px" height="400px" src="https://github.com/Marlon-DH/PISenac_TI1.25/blob/master/Captura%20de%20tela%202026-07-07%20175848.png"/>
 
-<img width="400px" height="400px" src="https://github.com/Marlon-DH/PISenac_TI1.25/blob/master/imagem_2026-07-07_175943355.png?raw=true"/>
+<img width="400px" height="400px" src="https://github.com/Marlon-DH/PISenac_TI1.25/blob/master/imagem_2026-07-08_231125471.png?raw=true" />
 
 </div>
 
